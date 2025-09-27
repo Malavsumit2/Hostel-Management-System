@@ -36,10 +36,8 @@ The project demonstrates **OOPS principles** for managing entities (Students, Co
 
 ---
 
-## ⚡ How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
+
+
 
 ##images 
 <img width="428" height="746" alt="Screenshot 2025-09-27 230215" src="https://github.com/user-attachments/assets/cf751a4a-ca09-4d30-aa96-a2bb4196c4a9" />
@@ -47,3 +45,10 @@ The project demonstrates **OOPS principles** for managing entities (Students, Co
 <img width="942" height="556" alt="Screenshot 2025-09-27 230509" src="https://github.com/user-attachments/assets/26240a12-c054-4b06-923c-e2b35fb146b4" />
 <img width="948" height="332" alt="Screenshot 2025-09-27 230635" src="https://github.com/user-attachments/assets/cf417c7d-ed3a-408a-86b0-b779779915d8" />
 <img width="815" height="836" alt="Screenshot 2025-09-27 230729" src="https://github.com/user-attachments/assets/a9afae4a-39ea-49fb-9812-f07a728967ee" />
+
+
+
+
+
+
+
